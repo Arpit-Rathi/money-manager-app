@@ -1,0 +1,55 @@
+- Login
+
+--> take id and password
+_______________________________________________
+- Signup
+
+--> details
+      > name
+      > email
+      > password
+      > details for splitwise api
+_______________________________________________
+- Dashboard
+
+--> list of accounts and current balance in every account
+--> expense breakdown using chart
+--> balance trend using graph
+--> top 5 expenses
+--> total debentures
+--> total loans
+--> budget remaining
+--> add new account
+
+_______________________________________________
+- Reports
+
+--> balance trend graph ( expenditure only and income only)
+--> last month cashflow record
+--> expenditure breakdown
+--> per day expenditure
+--> goals trends
+--> investment graph
+
+_______________________________________________
+- Goals
+
+--> create a new goal ( goal amount, time required )
+--> show average savings to be made to reach goal
+
+_______________________________________________
+- Daily Expense
+
+--> form with account, amount, type and category field
+--> table showing today's transactions
+--> feature to sync the debt/credit to splitwise
+--> goal update
+--> transfer currency between accounts
+
+_______________________________________________
+- Investments
+
+--> new investment
+--> investment returns
+
+_______________________________________________
